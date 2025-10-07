@@ -1,0 +1,5 @@
+Inizio
+20281: Ho ricevuto 20282 (a=1 , a = 0x64e1650342b0)
+20281:  Svegliato: 20282 (*a = 1, *a = 0x64e1650342b0)
+20282: Ho ricevuto 0 (a=1 , a = 0x64e1650342b0)
+20282:  Svegliato: 0 (*a = 2, *a = 0x64e1650342b0)
